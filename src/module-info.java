@@ -1,2 +1,6 @@
 module myapp {
+	
+	
+	hi
+	hi
 }
