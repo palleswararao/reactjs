@@ -2,5 +2,5 @@ module myapp {
 	
 	
 	hi
-	hi
+	hihhi
 }
